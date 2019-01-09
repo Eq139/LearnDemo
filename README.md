@@ -1,2 +1,2 @@
 # LearnDemo
-It 's a repository to record my growing and learning process.
+It 's a repository markup.
